@@ -4,9 +4,14 @@ I am a Computer Programmer/Sofware Developer .I can deliver my Programming and C
 I`m preparing AWS certification as an Solutions Architect - Associate level. 
 
 My Strengths are:
+
 ● Good programmer 
+
 ● Smart worker 
+
 ● Good Team Player 
+
 ● Efficient problem solver 
+
 ● Good at communication skills 
 
