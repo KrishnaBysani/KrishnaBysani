@@ -3,6 +3,9 @@ Hi there 👋, I`m Krishna pursuing my Under Graduation in the branch of Compute
 I am a Computer Programmer/Sofware Developer .I can deliver my Programming and Communication skills, while maintaining the integrity, ethics of the working environment and reputation of the organization.
 I`m preparing AWS certification as an Solutions Architect - Associate level. 
 
+
+Skills: Linux / AWS/ C / C++ / Java / R / SQL / SAS /  Python / Basic Level of ML
+
 My Strengths are:
 
 ● Good programmer 
